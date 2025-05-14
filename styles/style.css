@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('/styles/header.css');
+@import url('/styles/banner.css');
+@import url('/styles/metricas.css');
+@import url('/styles/vagas.css');
+@import url('/styles/formulario.css');
+
+:root {
+    --cor-principal: #FFFFFF;
+    --cor-secundaria: #8E2424;
+    --cor-terciaria: #667085;
+    --cor-quaternaria: #101828;
+
+    --cor-fundo-depoimentos: #a19c9c;
+    --cinza-muito-claro: #EAECF0;
+    --fonte-principal: 'Inter', sans-serif;
+}
+
+body{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--fonte-principal);
+}

@@ -1,0 +1,31 @@
+.container__metricas {
+    display:flex;
+    margin: 5em 4em;
+}
+
+.metricas__item {
+    padding: 2em;
+}
+
+.metricas__titulo {
+    font-size: 60px;
+    color: var(--cor-secundaria);
+    font-weight: 600;
+    padding: 0 0 0.5em 0.1em;
+}
+
+.metricas__subtitulo {
+    font-size: 18px;
+    color: var(--cor-quaternaria);
+    font-weight: 500;
+    padding: 0 0 0.5em 0.4em;
+    white-space: nowrap;
+}
+
+.metricas__descricao {
+    color: var(--cor-terciaria);
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0.5em;
+    width: 238px;
+}

@@ -1,0 +1,34 @@
+.banner__img {
+    margin: 4em 0;
+}
+
+.vagas__titulo {
+    padding-right: 45em;
+}
+
+.vagas__item {
+    background-color: transparent;
+    border: 1px solid var(--cinza-muito-claro);
+    border-radius: 16px;
+    padding: 1.5em;
+    color: var(--cor-quaternaria);
+    font-size: 18px;
+    font-weight: 500;
+    list-style: none;
+    margin: 2em 0;
+}
+
+.vagas__descricao {
+    color: var(--cor-terciaria);
+    display: flex;
+    padding: 1em 1em 0 0em;
+}
+
+.vagas__descricao__segundo {
+    padding-left: 2em;
+}
+
+.vagas__titulo-2 {
+    margin: 5.3em 0 2em 0;
+}
+
