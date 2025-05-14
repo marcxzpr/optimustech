@@ -1,6 +1,6 @@
 # OptimusTech
 
-OptimusTech é um projeto desenvolvido com foco em fornecer uma experiência moderna e intuitiva para os usuários. O objetivo principal é criar uma página visualmente atrativa e funcional, destacando as capacidades do design responsivo e das tecnologias básicas de desenvolvimento web.
+OptimusTech é um *projeto desenvolvido* com foco em fornecer uma experiência moderna e intuitiva para os usuários. O objetivo principal deste projeto é para eu testar minhas habilidades em Front-End com base no que aprendi durante a formação de **HTML** & **CSS** da **ALURA**
 
 ## Tecnologias Utilizadas 🖥️
 
